@@ -23,7 +23,7 @@
 <img align="center" src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=388bfd">
-<img align="center" src="https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white&labelColor=388bfd">
+<img align="center" src="https://img.shields.io/badge/-MySql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=388bfd">
 </p>
 
