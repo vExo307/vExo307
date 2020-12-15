@@ -17,7 +17,7 @@
 - 📫 Email: <a href="mailto:vexo307@gmail.com">vexo307@gmail.com</a>
 
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=388bfd">
+<img align="center" src="https://img.shields.io/badge/-C/C++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-html 5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=388bfd">
