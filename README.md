@@ -3,10 +3,11 @@
 
 <p float="left">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=xbox&logoColor=white&labelColor=388bfd">
-<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=388bfd">
-<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=388bfd">
-<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=steam&logoColor=white&labelColor=388bfd">
+<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=388bfd">
+<img src="https://img.shields.io/badge/-Andrew%20Sturgis-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=388bfd">
+<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=388bfd">
+<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=388bfd">
 </p>
 
