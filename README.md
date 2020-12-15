@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=xbox&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=steam&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=388bfd">
-<img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=switch&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-Andrew%20Sturgis-grey?style=for-the-badge&logo=spotify&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=388bfd">
 <img src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=388bfd">
