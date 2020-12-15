@@ -23,6 +23,8 @@
 <img align="center" src="https://img.shields.io/badge/-css 3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=388bfd">
+<img align="center" src="https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white&labelColor=388bfd">
+<img align="center" src="https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=388bfd">
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vExo307&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=388bfd&icon_color=686770&text_color=388bfd&bg_color=112034">
