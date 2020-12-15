@@ -8,7 +8,10 @@
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=reddit&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=twitter&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=388bfd">
+</p>
 
+<p align="center">
+  
 - 📓 Fulltime student 
 - 💻 Enjoy programming 
 - 🪛 Hardware repair and modding
