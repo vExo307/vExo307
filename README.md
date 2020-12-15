@@ -1,7 +1,7 @@
 <h1 align="center"> vExo307 </h1>
 <h3 align="center">Student, Developer, Enthusiast</h3>
 
-<p float="center">
+<p align="center">
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=xbox&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=steam&logoColor=white&labelColor=388bfd">
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=388bfd">
