@@ -10,6 +10,12 @@
 <img align="center" src="https://img.shields.io/badge/-vExo307-grey?style=for-the-badge&logo=youtube&logoColor=white&labelColor=388bfd">
 </p>
 
+- 📓 Fulltime student 
+- 💻 Enjoy programming 
+- 🪛 Hardware repair and modding
+- 🏫 Dream College: M.I.T
+- 📫 Email: <a href="mailto:vexo307@gmail.com">vexo307@gmail.com</a>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vExo307&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=388bfd&icon_color=686770&text_color=388bfd&bg_color=112034">
 </p>
